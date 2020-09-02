@@ -112,7 +112,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
                         }
                     }else {
-                        Toast.makeText(MapsActivity.this, "NO data found", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(MapsActivity.this, "DATA", Toast.LENGTH_SHORT).show();
                     }
 
                 }
